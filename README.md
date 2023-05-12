@@ -1,1 +1,1 @@
-# ScUppLite-Frontend
+# Lite Mobile
